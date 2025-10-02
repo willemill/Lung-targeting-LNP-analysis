@@ -1,0 +1,14 @@
+# Core scientific stack
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+
+# Machine learning
+scikit-learn>=1.5.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Optional: Jupyter environment for interactive use
+jupyterlab>=4.0.0
+notebook>=7.0.0
